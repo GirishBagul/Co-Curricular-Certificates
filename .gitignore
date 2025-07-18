@@ -1,0 +1,26 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# Ignore logs
+*.log
+
+# Ignore backup or temporary files
+~$*
+*.tmp
+*.old
+
+# Optional: ignore large raw files (if not needed in repo)
+*.zip
+*.rar
+
+# Uncomment below if you don’t want to track high-res raw images
+# *.tiff
+# *.psd
